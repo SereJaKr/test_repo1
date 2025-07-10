@@ -1,2 +1,5 @@
 1 Test case1
+  Test case title: some title
+  Steps to reproduce 1,2,3
+
 2 Test Case2
