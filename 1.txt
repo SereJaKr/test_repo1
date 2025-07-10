@@ -3,3 +3,4 @@
   Steps to reproduce 1,2,3
 
 2 Test Case2
+  info about test case2
